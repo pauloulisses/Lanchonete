@@ -1,2 +1,2 @@
 # Lanchonete
-lanchonete sistema
+Trabalho Faculdade em linguagem python Lanchonete
